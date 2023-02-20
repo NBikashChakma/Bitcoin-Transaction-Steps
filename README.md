@@ -1,5 +1,5 @@
-# Bitcoin-Transaction-Steps
-Introduction to Blockchain Technologies
+
+# Introduction to Blockchain Technologies
 Blockchain technology is a distributed ledger technology that enables the creation of a secure, transparent, and decentralized database. The term "blockchain" refers to the way in which data is stored in a series of blocks that are linked together in a chain. Each block contains a set of transactions and a unique code, known as a hash, which is used to verify the integrity of the block.
 
 One of the key features of blockchain technology is that it is decentralized, which means that it does not rely on a central authority or intermediary to manage and validate transactions. Instead, transactions are verified by a network of users, known as nodes, who use complex algorithms to ensure that the transaction is valid. This makes it more secure and resistant to fraud and hacking.
@@ -10,7 +10,7 @@ Blockchain technology is most commonly associated with cryptocurrencies, such as
 
 Overall, blockchain technology has the potential to revolutionize the way we store and exchange data, providing a secure, transparent, and decentralized alternative to traditional centralized systems.
 
-Here are the basic steps involved in a typical Bitcoin transaction:
+# Here are the basic steps involved in a typical Bitcoin transaction:
 
 The transaction is initiated by the sender, who creates a transaction message that specifies the recipient's Bitcoin address and the amount of Bitcoin to be sent.
 
